@@ -1,6 +1,9 @@
-# Chart Visualization Assignment
+### Chart Visualization Assignment
 
-The chart should have these features:
+##### Demo
+[https://andrivash.github.io/homework-ui-master/](https://andrivash.github.io/homework-ui-master/)
+
+##### The chart should have these features:
 
 * [ ] Animation that steps through the data, displaying each year for 2 seconds
       before proceeding to the next year.
