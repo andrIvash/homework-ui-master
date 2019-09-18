@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-ui-master/static/css/main.fe5dc5dd.chunk.css",
+    "main.js": "/homework-ui-master/static/js/main.e2b83e8a.chunk.js",
+    "main.js.map": "/homework-ui-master/static/js/main.e2b83e8a.chunk.js.map",
+    "runtime~main.js": "/homework-ui-master/static/js/runtime~main.20252405.js",
+    "runtime~main.js.map": "/homework-ui-master/static/js/runtime~main.20252405.js.map",
+    "static/js/2.32176729.chunk.js": "/homework-ui-master/static/js/2.32176729.chunk.js",
+    "static/js/2.32176729.chunk.js.map": "/homework-ui-master/static/js/2.32176729.chunk.js.map",
+    "index.html": "/homework-ui-master/index.html",
+    "precache-manifest.657a3e105df0d6831e00d63900bb6e53.js": "/homework-ui-master/precache-manifest.657a3e105df0d6831e00d63900bb6e53.js",
+    "service-worker.js": "/homework-ui-master/service-worker.js",
+    "static/css/main.fe5dc5dd.chunk.css.map": "/homework-ui-master/static/css/main.fe5dc5dd.chunk.css.map"
+  }
+}
