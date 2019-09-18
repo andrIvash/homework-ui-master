@@ -1,0 +1,13 @@
+.Button {
+	padding: 5px 15px;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+.start {
+	background-color: #87c5e6;
+}
+
+.stop {
+	background-color: #D6D6D6;
+}
