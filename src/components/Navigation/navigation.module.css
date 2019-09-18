@@ -1,0 +1,23 @@
+.LinksList {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+}
+
+.LinksList__elem {
+	padding: 0 10px 5px 10px;
+}
+
+.LinksList__elem_underlined {
+	border-bottom: 1px solid #ff889f;
+}
+
+.LinksList__link {
+	color: #87c5e6;
+	text-decoration: none;
+}
+
+.LinksList__link_active {
+	color: #ff889f;
+}
+
